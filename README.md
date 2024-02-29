@@ -7,9 +7,9 @@ A：默认登陆地址是`http://192.168.1.1`，默认帐号密码是`admin`/`pa
 
 ---
 
-**Q：为什么我刷了QWRT看不到那些奇怪的插件？**
+**Q：为什么我刷了QWRT看不到那些东方神秘插件？**
 
-A：在ssh输入以下命令，然后web界面就显示了
+A：在ssh输入以下命令，然后刷新web界面就显示了
 ```bash
 echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```
